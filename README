@@ -1,0 +1,13 @@
+# Setup
+Make sure you have python 3.8 and pip installed, or alternatively miniconda3.
+Create a conda environment and activate it.
+run "pip install -r requirements.txt"
+
+## Running the program
+Navigate to the e_corus directory and run the following command:
+python -m src.work_service
+
+## Testing
+python -m pytest
+
+
